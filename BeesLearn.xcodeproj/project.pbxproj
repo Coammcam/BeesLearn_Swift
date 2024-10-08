@@ -22,6 +22,7 @@
 		321497662CB44F64008BF5C3 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 321497652CB44F64008BF5C3 /* LoginView.swift */; };
 		321497682CB458DE008BF5C3 /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 321497672CB458DE008BF5C3 /* CustomTextField.swift */; };
 		3214976A2CB45E07008BF5C3 /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 321497692CB45E07008BF5C3 /* CustomButton.swift */; };
+		3214976C2CB68F5F008BF5C3 /* SignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3214976B2CB68F5F008BF5C3 /* SignUpView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +62,7 @@
 		321497652CB44F64008BF5C3 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 		321497672CB458DE008BF5C3 /* CustomTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
 		321497692CB45E07008BF5C3 /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
+		3214976B2CB68F5F008BF5C3 /* SignUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -164,6 +166,7 @@
 				321497462CB16E7D008BF5C3 /* Components */,
 				3214974B2CB17906008BF5C3 /* WelcomeView.swift */,
 				321497652CB44F64008BF5C3 /* LoginView.swift */,
+				3214976B2CB68F5F008BF5C3 /* SignUpView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -356,6 +359,7 @@
 				3214976A2CB45E07008BF5C3 /* CustomButton.swift in Sources */,
 				321497622CB3ED19008BF5C3 /* CustomButtonLogin.swift in Sources */,
 				3214974C2CB17906008BF5C3 /* WelcomeView.swift in Sources */,
+				3214976C2CB68F5F008BF5C3 /* SignUpView.swift in Sources */,
 				321497192CB1688B008BF5C3 /* BeesLearnApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
